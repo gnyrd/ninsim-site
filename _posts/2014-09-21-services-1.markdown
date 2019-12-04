@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
-description: |
+title: Services<br>Special Thanks
+description: Ninsim Services
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Ninsim has deep roots within the Apple developer community. As employees of Apple's Developer Relations, as engineering leadership on product teams, as members of technical staff on development teams, and providing consulting services to other product groups.
