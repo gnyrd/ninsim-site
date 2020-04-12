@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: What we can provide
+title: What we can provide.
 description: Ninsim Services
 ---
 If you're looking for specialized platform knowledge, Ninsim has deep roots within the Apple developer community and boasts accomplishments as former employees of Apple's Developer Relations (Evangelism and Developer Technical Support). 

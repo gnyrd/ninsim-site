@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Services
+title: Clients
 description: Ninsim Services
 ---
 Over the years the consultants at Ninsim have worked with many companies including Adobe, Apple, Cisco, ESRI, Google, Handspring, IBM, MacSpeech, Metrowerks, Microsoft, Motorola, Netscape, Novel, Nuance, Palm, SAIC, Silent Circle, StarNine, Symantec, 2016 Democratic Presidential Campaign, US Library of Congress, US Robotics, and Yahoo.
