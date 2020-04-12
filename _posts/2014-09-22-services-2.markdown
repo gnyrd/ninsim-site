@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: ipad_hero.png
 category: Services
 title: What we can provide.
 description: Ninsim Services

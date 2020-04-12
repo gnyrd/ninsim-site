@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: mac_hero.png
 category: Services
 title: Clients
 description: Ninsim Services
