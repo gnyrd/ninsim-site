@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
-description: |
+title: Services
+description: Ninsim Services
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Over the years the consultants at Ninsim have worked with many companies including Adobe, Apple, Cisco, ESRI, Google, Handspring, IBM, MacSpeech, Metrowerks, Microsoft, Motorola, Netscape, Novel, Nuance, Palm, SAIC, Silent Circle, StarNine, Symantec, 2016 Democratic Presidential Campaign, US Library of Congress, US Robotics, and Yahoo.

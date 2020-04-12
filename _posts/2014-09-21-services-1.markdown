@@ -2,7 +2,9 @@
 layout: default
 img: ipad.png
 category: Services
-title: Services<br>Special Thanks
+title: How can we help?
 description: Ninsim Services
 ---
-  Ninsim has deep roots within the Apple developer community. As employees of Apple's Developer Relations, as engineering leadership on product teams, as members of technical staff on development teams, and providing consulting services to other product groups.
+It's all here: engineering leadership, technical expertise, and vast knowledge consulting on a diverse array of products.
+
+Ninsim brings highly skilled pros to match up your ideas with the best interfaces for your users. 

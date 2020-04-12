@@ -2,9 +2,9 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
-description: |
+title: What we can provide
+description: Ninsim Services
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+If you're looking for specialized platform knowledge, Ninsim has deep roots within the Apple developer community and boasts accomplishments as former employees of Apple's Developer Relations (Evangelism and Developer Technical Support). 
+
+We have provided engineering leadership on product teams, been members of technical staff on multiple development teams, and provided consulting services to many other product groups. We have the skills and expertise to move your products forward.
